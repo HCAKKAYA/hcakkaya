@@ -14,7 +14,6 @@ My name is Hüseyin, I am 24 years old. I was born in Kastamonu, Turkey. I am do
 <br />
 
 ### 📩 Connect with me:
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [Linkedin]: https://www.linkedin.com/in/huseyincanakkaya/
 
 <br />
