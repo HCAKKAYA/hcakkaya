@@ -1,5 +1,7 @@
 
 Hi there 👋!
+<br />
+
 My name is Hüseyin, I am 24 years old. I am doing a master's degree in management information systems at Muğla Sıtkı Koçman University. I am interested in front-end and data science.
 - 🔭 I’m currently working on my master's degree in management information systems at MSKÜ.
 - 🌱 I’m currently learning Python
