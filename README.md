@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="320" />
 
 Hi there 👋!
 My name is Hüseyin, I am 24 years old. I was born in Kastamonu, Turkey. I am doing a master's degree in management information systems at Muğla Sıtkı Koçman University. I am interested in front-end and data science.
