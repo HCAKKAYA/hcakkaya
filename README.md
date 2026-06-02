@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MIS Master’s Student  <br>💻 Data Science & Web Development Enthusiast  <br>📊 SQL | Python | Power BI | Node.js | HTML/CSS/JS <br>🚀 Building data-driven projects to create value<br>
+<br>💻 Data Science & Web Development Enthusiast  <br>📊 SQL | Python | Power BI | Node.js | HTML/CSS/JS <br>🚀 Building data-driven projects to create value<br>
 
 
 ## 🌐 Socials:
